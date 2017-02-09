@@ -1,0 +1,5 @@
+name: categories test
+version: 1.0.0
+categories:
+- category1
+- category2
