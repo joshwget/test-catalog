@@ -1,0 +1,5 @@
+name: labels
+version: 1.0.0
+labels:
+  key1: value1
+  key2: value2
