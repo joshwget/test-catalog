@@ -1,0 +1,8 @@
+.catalog:
+  name: templating
+  version: 1.0
+  questions:
+  - variable: "SERVICE_NAME"
+    label: "Service name"
+    type: "string"
+    default: "josh"
