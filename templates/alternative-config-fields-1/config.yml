@@ -2,3 +2,4 @@ name: Alternative Config Fields
 description: |
   This template tests alternative config fields.
 version: 3.0.0
+project_url: www.test.com
