@@ -1,0 +1,6 @@
+name: Default Version 2
+description: |
+  This template tests default versions. Test upgrade and default to latest valid upgrade.
+version: 3.0.0
+project_url: www.test.com
+default_version: v1.5.5-vancher1-1
