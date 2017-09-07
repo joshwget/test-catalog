@@ -1,0 +1,5 @@
+.catalog:
+  name: "Alternative Config Fields 3"
+  version: "3.0.0"
+  description: "Alternative"
+  minimum_rancher_version: v0.0.0
